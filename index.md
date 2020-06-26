@@ -15,7 +15,7 @@ Autonomous agents are limited in their ability to observe the world state. Parti
 ```
 @INPROCEEDINGS{Qiu-RSS-20,
   AUTHOR    = {Dicong Qiu AND Yibiao Zhao AND Chris Baker},
-  TITLE     = {{Latent Belief Space Motion Planning under Cost, Dynamics, and Intent Uncertainty}},
+  TITLE     = {Latent Belief Space Motion Planning under Cost, Dynamics, and Intent Uncertainty},
   BOOKTITLE = {Proceedings of Robotics: Science and Systems},
   YEAR      = {2020},
   ADDRESS   = {Corvalis, Oregon, USA},
